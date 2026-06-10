@@ -1,0 +1,4 @@
+supabase
+pymongo
+cassandra-driver
+redis
